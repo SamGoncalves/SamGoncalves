@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou Samuel dos Santos 👋</h1>
 
 ### 🚀 Minhas Estatísticas do GitHub:
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&theme=dark" />
 </p>
@@ -14,7 +14,7 @@
   <a href="www.linkedin.com/in/samuel-dos-santos-3a2040241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<picture align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamGoncalves/SamGoncalves/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamGoncalves/SamGoncalves/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamGoncalves/SamGoncalves/output/github-contribution-grid-snake.svg">
