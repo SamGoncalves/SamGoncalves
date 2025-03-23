@@ -13,3 +13,6 @@
   <a href="mailto:samuelsantos2021@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="www.linkedin.com/in/samuel-dos-santos-3a2040241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/SamGoncalves/SamGoncalves/blob/output/github-contribution-grid-snake.svg)
+
