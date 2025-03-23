@@ -3,19 +3,9 @@
 ### 🚀 Minhas Estatísticas do GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" height="180" width="450" style="vertical-align: middle;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&langs_count=7&theme=dark" height="140" width="450" style="vertical-align: middle;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark&cache_seconds=1800" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&langs_count=7&theme=dark&cache_seconds=1800" height="140">
 </p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</p>
-
-
-
 
 ### 📌 **Redes Sociais**
 <div align="center">
