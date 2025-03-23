@@ -1,16 +1,10 @@
 <h1>Olá! Eu sou Samuel dos Santos 👋</h1>
 
 ### 🚀 Minhas Estatísticas do GitHub:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&theme=dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&theme=dark" />
+</p>
 
 
 ### 📌 **Redes Sociais**
