@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou Samuel dos Santos 👋</h1>
+<h1>Olá! Eu sou Samuel dos Santos 👋</h1>
 
 ### 🚀 Minhas Estatísticas do GitHub:
 
