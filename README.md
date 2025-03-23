@@ -2,12 +2,11 @@
 
 ### 🚀 Minhas Estatísticas do GitHub:
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" height="180">
-</p>
-<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&langs_count=7&theme=dark" height="140">
 </p>
+
 
 
 
