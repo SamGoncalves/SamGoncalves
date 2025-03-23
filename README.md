@@ -1,9 +1,6 @@
 <h1>Olá! Eu sou Samuel dos Santos 👋</h1>
 
 ### 🚀 Minhas Estatísticas do GitHub:
-
-## 🚀 Minhas Estatísticas do GitHub:
-
 <table>
   <tr>
     <td>
@@ -23,5 +20,8 @@
   <a href="www.linkedin.com/in/samuel-dos-santos-3a2040241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/SamGoncalves/SamGoncalves/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/SamGoncalves/SamGoncalves/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 
