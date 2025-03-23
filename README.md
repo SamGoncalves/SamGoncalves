@@ -2,14 +2,17 @@
 
 ### 🚀 Minhas Estatísticas do GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SamGoncalves&show_icons=true&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&langs_count=7&theme=dark" />
+    </td>
+  </tr>
+</table>
 
----
-
-### 🔥 **Linguagens Mais Usadas**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamGoncalves&layout=compact&langs_count=7&theme=dark)
-
----
 
 ### 📌 **Redes Sociais**
 <div align="center">
